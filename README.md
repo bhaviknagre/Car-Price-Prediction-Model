@@ -55,6 +55,9 @@ https://car-price-prediction-model-6x4qggibigvnv82vk87vl4.streamlit.app/
 
 ## Visuals
 
+![Weblink](ss1.png)
+![Weblink](ss2.png)
+
 ## Results and Recommendations
 The car price prediction model has shown promising results, accurately predicting prices with a low error margin. It is recommended to further enhance the model by:
 
